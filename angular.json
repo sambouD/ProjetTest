@@ -106,5 +106,7 @@
       }
     }
   },
-  "defaultProject": "ProjetEleve"
+  "cli": {
+    "analytics": false
+  }
 }
